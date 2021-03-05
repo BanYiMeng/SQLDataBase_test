@@ -1,0 +1,3 @@
+Sno,City,Name,Co
+Primary Key,,Not Null,
+Char[15],String,String,String
